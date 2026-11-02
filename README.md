@@ -1,2 +1,2 @@
-## Hello <img src="./wave.svg" height="28px">
-<a><img width="100%" src="./bruh.webp"></a>
+## :stuck_out_tongue: hello!
+<a href="https://skadinkle.github.io"><img width="100%" src="banner.webp"></a>
